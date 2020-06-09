@@ -52,16 +52,16 @@ self.__precacheManifest = [
     "url": "/react-with-redux-sample-project/static/media/fontawesome-webfont.fee66e71.woff"
   },
   {
+    "revision": "b06871f281fee6b241d60582ae9369b9",
+    "url": "/react-with-redux-sample-project/static/media/fontawesome-webfont.b06871f2.ttf"
+  },
+  {
     "revision": "674f50d287a8c48dc19ba404d20fe713",
     "url": "/react-with-redux-sample-project/static/media/fontawesome-webfont.674f50d2.eot"
   },
   {
     "revision": "acf3dcb7ff752b5296ca23ba2c7c2606",
     "url": "/react-with-redux-sample-project/static/media/fontawesome-webfont.acf3dcb7.svg"
-  },
-  {
-    "revision": "b06871f281fee6b241d60582ae9369b9",
-    "url": "/react-with-redux-sample-project/static/media/fontawesome-webfont.b06871f2.ttf"
   },
   {
     "revision": "a23c0ba21d92e0cd504f4115865c3355",
