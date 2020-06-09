@@ -8,8 +8,8 @@ self.__precacheManifest = [
     "url": "/react-with-redux-sample-project/static/js/main.5944ebd6.chunk.js"
   },
   {
-    "revision": "9b8bb816b817d1c06b3b",
-    "url": "/react-with-redux-sample-project/static/js/runtime~main.5f4a4482.js"
+    "revision": "cb037ca0cffdf94e6dc6",
+    "url": "/react-with-redux-sample-project/static/js/runtime~main.e52ec3ec.js"
   },
   {
     "revision": "08b6bde7239973d1670f",
@@ -24,36 +24,32 @@ self.__precacheManifest = [
     "url": "/react-with-redux-sample-project/static/js/4.b7f96ece.chunk.js"
   },
   {
-    "revision": "631433b254822979ea6a",
-    "url": "/react-with-redux-sample-project/static/js/5.38ec8ca4.chunk.js"
+    "revision": "c8a4a6ff314066f354f0",
+    "url": "/react-with-redux-sample-project/static/js/5.e829b529.chunk.js"
   },
   {
     "revision": "8ec8cf3d29ae0a905201",
     "url": "/react-with-redux-sample-project/static/js/6.3b92da29.chunk.js"
   },
   {
-    "revision": "2ee94195fd8d55c3e8e1",
-    "url": "/react-with-redux-sample-project/static/js/7.b68e7c00.chunk.js"
+    "revision": "ffc99535f5c15f450881",
+    "url": "/react-with-redux-sample-project/static/js/7.2eec21cc.chunk.js"
   },
   {
     "revision": "99a5390511f62bdcbbc1",
     "url": "/react-with-redux-sample-project/static/js/8.291fc08d.chunk.js"
   },
   {
-    "revision": "2e4ad848f5cbaa1f925e",
-    "url": "/react-with-redux-sample-project/static/js/9.366c7e75.chunk.js"
-  },
-  {
-    "revision": "fee66e712a8a08eef5805a46892932ad",
-    "url": "/react-with-redux-sample-project/static/media/fontawesome-webfont.fee66e71.woff"
+    "revision": "98509fec301ca20db2da",
+    "url": "/react-with-redux-sample-project/static/js/9.56f4092d.chunk.js"
   },
   {
     "revision": "af7ae505a9eed503f8b8e6982036873e",
     "url": "/react-with-redux-sample-project/static/media/fontawesome-webfont.af7ae505.woff2"
   },
   {
-    "revision": "b06871f281fee6b241d60582ae9369b9",
-    "url": "/react-with-redux-sample-project/static/media/fontawesome-webfont.b06871f2.ttf"
+    "revision": "fee66e712a8a08eef5805a46892932ad",
+    "url": "/react-with-redux-sample-project/static/media/fontawesome-webfont.fee66e71.woff"
   },
   {
     "revision": "674f50d287a8c48dc19ba404d20fe713",
@@ -62,6 +58,10 @@ self.__precacheManifest = [
   {
     "revision": "acf3dcb7ff752b5296ca23ba2c7c2606",
     "url": "/react-with-redux-sample-project/static/media/fontawesome-webfont.acf3dcb7.svg"
+  },
+  {
+    "revision": "b06871f281fee6b241d60582ae9369b9",
+    "url": "/react-with-redux-sample-project/static/media/fontawesome-webfont.b06871f2.ttf"
   },
   {
     "revision": "a23c0ba21d92e0cd504f4115865c3355",
@@ -124,7 +124,7 @@ self.__precacheManifest = [
     "url": "/react-with-redux-sample-project/static/media/single-portfolio.ec4c49da.png"
   },
   {
-    "revision": "f9573f664c8db9ce9838d718188e7778",
+    "revision": "7d95f4eb5410697f26fa5968bcdb8db6",
     "url": "/react-with-redux-sample-project/index.html"
   }
 ];
