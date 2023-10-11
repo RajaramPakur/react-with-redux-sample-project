@@ -7,7 +7,7 @@ import {
 
 export const fetchAllNews = (country) => (dispatch) => {
   fetch(
-    `https://newsapi.org/v2/top-headlines?country=${country}&apiKey=5ebb5a6ed1b2437193a5613470f91932`
+    `https://newsapi.org/v2/top-headlines?country=${country}&apiKey=a78e73c6432c44a395e6f4c7771ab6f3`
   )
     .then((res) => res.json())
     .then((news) =>
@@ -20,7 +20,7 @@ export const fetchAllNews = (country) => (dispatch) => {
 
 export const fetchAllNewsSources = () => (dispatch) => {
   fetch(
-    "https://newsapi.org/v2/sources?apiKey=5ebb5a6ed1b2437193a5613470f91932"
+    "https://newsapi.org/v2/sources?apiKey=a78e73c6432c44a395e6f4c7771ab6f3"
   )
     .then((res) => res.json())
     .then((sources) =>
@@ -33,7 +33,7 @@ export const fetchAllNewsSources = () => (dispatch) => {
 
 export const searchFromTopNews = (query) => (dispatch) => {
   fetch(
-    `https://newsapi.org/v2/everything?q=${query}&apiKey=5ebb5a6ed1b2437193a5613470f91932`
+    `https://newsapi.org/v2/everything?q=${query}&apiKey=a78e73c6432c44a395e6f4c7771ab6f3`
   )
     .then((res) => res.json())
     .then((news) =>
@@ -46,7 +46,7 @@ export const searchFromTopNews = (query) => (dispatch) => {
 
 export const searchAllNewsByDomain = (domains) => (dispatch) => {
   fetch(
-    `https://newsapi.org/v2/everything?domains=${domains}&apiKey=5ebb5a6ed1b2437193a5613470f91932`
+    `https://newsapi.org/v2/everything?domains=${domains}&apiKey=a78e73c6432c44a395e6f4c7771ab6f3`
   )
     .then((res) => res.json())
     .then((news) =>
